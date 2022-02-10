@@ -26,10 +26,12 @@
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![EJS](https://img.shields.io/badge/-ejs-333333?style=flat&logo=ejs&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Jquery](https://img.shields.io/badge/-Jquery-333333?style=flat&logo=jquery)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
@@ -38,7 +40,7 @@
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
   ![MongoDB](https://img.shields.io/badge/-Mongodb-333333?style=flat&logo=mongodb)
-  ![Mongoose](https://img.shields.io/badge/-mongoose-333333?style=flat&logo=mongoose)
+  ![Mongoose](https://img.shields.io/badge/-Mongoose-333333?style=flat&logo=mongoose)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
