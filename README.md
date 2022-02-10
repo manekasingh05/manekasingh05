@@ -74,12 +74,5 @@
    
    </br>
    
-   <br>
-   
-   
-![Skyline](https://github.com/manekasingh05/manekasingh05/blob/master/github-metrics.svg)
-     
-     
- </br>
 
 
