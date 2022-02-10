@@ -26,7 +26,7 @@
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![EJS](https://img.shields.io/badge/-ejs-333333?style=flat&logo=ejs&logoColor=1572B6)
+  ![EJS](https://img.shields.io/badge/-EJS-333333?style=flat&logo=ejs&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Jquery](https://img.shields.io/badge/-Jquery-333333?style=flat&logo=jquery)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
@@ -41,12 +41,24 @@
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
   ![MongoDB](https://img.shields.io/badge/-Mongodb-333333?style=flat&logo=mongodb)
   ![Mongoose](https://img.shields.io/badge/-Mongoose-333333?style=flat&logo=mongoose)
+  ![REST API](https://img.shields.io/badge/-RestApi-333333?style=flat&logo=restapi)
+
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+  
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Brackets](https://img.shields.io/badge/-Brackets-333333?style=flat&logo=brackets&logoColor=007ACC)
+  ![Xcode](https://img.shields.io/badge/-Xcode-333333?style=flat&logo=xcode&logoColor=007ACC)
+  
+- ✏️ &nbsp;  ![Adobe Photoshop](https://img.shields.io/badge/-AdobePhotoshop-333333?style=flat&logo=adobephotoshop)  ![Adobe Illustrator](https://img.shields.io/badge/-AdobeIllustrator-333333?style=flat&logo=adobeillustrator)  ![Adobe Indesign](https://img.shields.io/badge/-AdobeIndesign-333333?style=flat&logo=adobeindesign)  ![Adobe xd](https://img.shields.io/badge/-Adobexd-333333?style=flat&logo=adobexd)  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)  ![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva)
+  
+  </br>
+  
+  <br>
+  
+![Maneka's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=manekasingh05&theme=xcode)](https://git.io/manekasingh05)
   
   </br>
 
