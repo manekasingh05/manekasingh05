@@ -6,12 +6,13 @@
 <br>
 
 #### :cowboy_hat_face:ABOUT ME
+<a href="https://www.linkedin.com/in/maneka-singh-b887a0204/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
 
 :sassy_woman: Hey! I'm Maneka Singh, a software engineer persuing BTech from Jaypee Institute Of Information Technology, Noida, India. My preferred pronouns are she/her.
 
 :octocat: I have done some past projects in web-development and UI/UX designing                  
 
-👩‍💻 3 :star: at **codechef(1604)**, 5 :star: at **hackerrank(C++ & C, 3 :star: SQL)**         ![linkedIn](https://user-images.githubusercontent.com/77896836/153349344-80c5f05d-2a65-4392-ae77-64c24af99626.png)
+👩‍💻 3 :star: at **codechef(1604)**, 5 :star: at **hackerrank(C++ & C, 3 :star: SQL)**
 
 💁 Fun-Fact: I love coding.💙
 
@@ -26,13 +27,18 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Jquery](https://img.shields.io/badge/-Jquery-333333?style=flat&logo=jquery)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Rails](https://img.shields.io/badge/-Rails-333333?style=flat&logo=ruby)
-- 🛢 &nbsp;
+  ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
+  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+  ![Wordpress](https://img.shields.io/badge/-Wordpress-333333?style=flat&logo=wordpress)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+  ![MongoDB](https://img.shields.io/badge/-Mongodb-333333?style=flat&logo=mongodb)
+  ![Mongoose](https://img.shields.io/badge/-mongoose-333333?style=flat&logo=mongoose)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
