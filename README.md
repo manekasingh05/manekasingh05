@@ -54,12 +54,32 @@
   
 - ✏️ &nbsp;  ![Adobe Photoshop](https://img.shields.io/badge/-AdobePhotoshop-333333?style=flat&logo=adobephotoshop)  ![Adobe Illustrator](https://img.shields.io/badge/-AdobeIllustrator-333333?style=flat&logo=adobeillustrator)  ![Adobe Indesign](https://img.shields.io/badge/-AdobeIndesign-333333?style=flat&logo=adobeindesign)  ![Adobe xd](https://img.shields.io/badge/-Adobexd-333333?style=flat&logo=adobexd)  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)  ![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva)
   
+ 
+ </br>
+  
+  
+  <br> 
+  
+
+[![Maneka's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=manekasingh05&theme=xcode)](https://git.io/manekasingh05)
+
+  
   </br>
   
   <br>
   
-![Maneka's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=manekasingh05&theme=xcode)](https://git.io/manekasingh05)
   
-  </br>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=manekasingh05&theme=prussian&hide_border=true)](https://git.io/streak-stats)
+
+   
+   </br>
+   
+   <br>
+   
+   
+![Skyline](https://github.com/manekasingh05/manekasingh05/blob/master/github-metrics.svg)
+     
+     
+ </br>
 
 
