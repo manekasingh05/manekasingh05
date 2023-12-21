@@ -1,7 +1,7 @@
 # HEY! THIS IS MANEKA SINGH 👋
 ## Full Stack Web Developer | Android App Developer | Graphic Designer | ML & OpenSource Enthusiast | Competitive Programmer | Freelancer
 
-### [Visit my portfolio website](https://manekasingh05.github.io) :smile:
+### [Visit my portfolio website](https://maneka-singh-portfolio.netlify.app/) :smile:
 
 <br>
 
